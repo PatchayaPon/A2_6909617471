@@ -1,0 +1,9 @@
+.my-img {
+    width: 200px;
+    height: 200px;
+}
+
+.profile-picture {
+    display: flex;
+    margin-top: 20px;
+}
